@@ -22,8 +22,8 @@ Feel free to explore my repositories to see some of the exciting projects I’m 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eya-Benhouria&label=Profile%20views&color=0e75b6&style=flat" alt="Eya-Benhouria" /> </p>
 
 - 🔭 I’m currently **a Sotware Engineering Student at ESPRIT, Tunisia.**
-- 🎓 I have a **Bachelor's degree in Software Engineering & Information Systems**
-- 👯 I’m looking to collaborate on **Java, Angular and Flutter Projects**
+- 🎓 I have a **Bachelor's degree in Software Engineering & Information Systems.**
+- 👯 I’m looking to collaborate on **Java, Angular and Flutter Projects.**
 - 💬 How to reach me **eya.benhouria@esprit.tn**
 
  ---
