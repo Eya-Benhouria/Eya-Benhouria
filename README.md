@@ -34,7 +34,12 @@ Feel free to explore my repositories to see some of the exciting projects I’m 
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Eya-Benhouria&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eya-Benhouria&&theme=xcode)](https://github.com/Eya-Benhouria)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eya-Benhouria&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Eya-Benhouria" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eya-Benhouria&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eya-Benhouria&&theme=tokyonight" alt="Eya-Benhouria" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
