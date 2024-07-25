@@ -36,7 +36,7 @@ Feel free to explore my repositories to see some of the exciting projects I’m 
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eya-Benhouria&&theme=xcode)](https://github.com/Eya-Benhouria)
+[![Eya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eya-Benhouria&&theme=xcode)](https://github.com/Eya-Benhouria)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eya-Benhouria&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Eya-Benhouria" /></p>
 
