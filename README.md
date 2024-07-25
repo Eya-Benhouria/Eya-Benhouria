@@ -32,7 +32,9 @@ Feel free to explore my repositories to see some of the exciting projects I’m 
 
 <h3>📊 Stats </h3>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eya-Benhouria&show_icons=true&theme=gruvbox)
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Eya-Benhouria&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
